@@ -5,7 +5,7 @@ This project implements an **AI-powered oil spill detection system** using **U-N
 
 
 ## 📊 Dataset  
-- **Source:** Kaggle Oil Spill Dataset + additional SAR images.  
+- **Link:** https://drive.google.com/drive/folders/1o7fyZDrFzPinMWM2S90p-KF69l7H87_i?usp=sharing
 - **Classes:** Oil spill vs non-spill.  
 - **Preprocessing:**  
   - Resized to 256×256  
