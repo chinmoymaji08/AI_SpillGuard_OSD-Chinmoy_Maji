@@ -18,7 +18,7 @@ The system automatically detects and segments oil spill regions from remote sens
 - **Architecture:** DeepLabV3 with ResNet-50 backbone (PyTorch)
 - **Loss Function:** Combination of BCE + Dice Loss
 - **Optimizer:** Adam (lr=1e-4 with step decay)
-- **Training Epochs:** 40
+- **Training Epochs:** 50
 - **Evaluation Metrics:** Accuracy, mIoU, Dice, Precision, Recall, F1 Score
 
 ## 📈 Results
