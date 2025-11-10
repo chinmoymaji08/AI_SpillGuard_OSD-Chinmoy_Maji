@@ -1,7 +1,7 @@
 # 🛢️ AI_SpillGuard_Oil_Spill_Detection – Chinmoy Maji
 
 ## 📌 Project Overview
-This project implements an oil spill detection system** using **DeepLabV3-ResNet50** for semantic segmentation. 
+This project implements an oil spill detection system using **DeepLabV3-ResNet50** for semantic segmentation. 
 The system automatically detects and segments oil spill regions from remote sensing images, supporting environmental monitoring and disaster management efforts.
 
 ## 📊 Dataset
