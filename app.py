@@ -71,7 +71,7 @@ def overlay_prediction(image, mask):
 # =====================
 def main():
     st.title("🛢️ AI SpillGuard - Oil Spill Detection")
-    st.write("Upload a satellite image to detect oil spills using a trained DeepLabV3 model.")
+    st.write("Upload an aerial image to detect oil spills using a trained DeepLabV3 model.")
 
     # Your Drive ID for DeepLabV3 model
     DRIVE_ID = "1kmgwoK6D9IdzG3rWkkYfLirTsqXgFjEL"
